@@ -9,9 +9,8 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-lerna"
+    "module",
+    "lerna"
   ],
   "license": "MIT",
   "bugs": {
